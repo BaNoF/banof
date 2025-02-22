@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BaNoF_+%7C+Code+with+Love+%3C3;Telegram+%40GalaxyZ9" alt="Typing SVG" /></a><h3 align="center">A full-stack developer from Russia</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BaNoF_+%7C+Code+with+Love+%3C3;Telegram+%40Trahersq" alt="Typing SVG" /></a><h3 align="center">A full-stack developer from Russia</h3>
 
 - 🔭 I’m currently working on [bTeam.tech](https://bteam.tech)
 
