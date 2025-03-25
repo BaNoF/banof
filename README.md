@@ -6,7 +6,7 @@ I am a Russian schoolboy, I love English and coding interesting things. Now I am
 ## ⚠️ My Skills
 - **Frontend**: Next.js, TypeScript, React  
 - **Backend**: Java, Kotlin, Spring Boot  
-- **Tools & Misc**: MangoMD, PostgreSQL  
+- **Tools & Misc**: MangoBD, PostgreSQL  
 
 ## 🔥 Currently working on:
 - 🚀 Developing full-stack apps with **Next.js** and **TypeScript**  
