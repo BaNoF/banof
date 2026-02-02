@@ -10,21 +10,19 @@
 <h3 align="center">Student dev from Russia 🇷🇺 | Daily commits challenge 2026 🟩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaNoF_&color=green" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=BaNoF&color=green" alt="Profile Views"/>
 </p>
 
-## 📊 GitHub Stats
-<div align="center">
+<br/>
 
-[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaNoF_&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaNoF&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaNoF_&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaNoF_&theme=tokyonight)](https://git.io/streak-stats)
-</div>
 
 ## 🚀 About Me
 Student developer building full-stack apps, Minecraft plugins, and working on daily discipline.  
 **2026 Goals:** Perfect GitHub grid, 2-3 open-source projects, OGE 5s across the board 💪
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,java,postgres,sqlite,docker,git&theme=dark" />
+</p>
