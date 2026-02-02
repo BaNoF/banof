@@ -1,22 +1,30 @@
-# Hi there 👋 I'm Danil BaNoF_
+<p align="center">
+  <img src="header.png" alt="Danil BaNoF_ Header" width="100%"/>
+</p>
 
-## 💲 About Me
-I am a Russian schoolboy, I love English and coding interesting things. Now I am working on myself and my knowledge, my goal is to be a sought-after fame
+<h1 align="center">
+  Hey <a href="https://github.com/BaNoF_">Danil</a> 👋
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-## ⚠️ My Skills
-- **Frontend**: Next.js, TypeScript, React  
-- **Backend**: Java, Kotlin, Spring Boot  
-- **Tools & Misc**: SQLite, PostgreSQL  
+<h3 align="center">Student dev from Russia 🇷🇺 | Daily commits challenge 2026 🟩</h3>
 
-## 🔥 Currently working on:
-- 🚀 Developing full-stack apps with **Next.js** and **TypeScript**  
-- ⚡ Building high-performance backend systems and minecraft plugins with **Java** and **Kotlin**  
-- 📝 Creating documentation and notes using **PostgreSQL**  
-- 📊 Mastering database solutions from **SQLite** to **PostgreSQL**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaNoF_&color=green" alt="Profile Views"/>
+</p>
 
-## 🌱 Learning Goals
-- Speak English fluently
-- Exploring **Kotlin** for multiplatform development  
-- Optimizing TypeScript type systems for large-scale apps  
+## 📊 GitHub Stats
+<div align="center">
 
-Let's connect and build something amazing together!
+[![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaNoF_&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaNoF_&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaNoF_&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+
+## 🚀 About Me
+Student developer building full-stack apps, Minecraft plugins, and working on daily discipline.  
+**2026 Goals:** Perfect GitHub grid, 2-3 open-source projects, OGE 5s across the board 💪
+
+## 🛠️ Tech Stack
