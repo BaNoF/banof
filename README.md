@@ -2,11 +2,6 @@
   <img src="header.png" alt="Danil BaNoF_ Header" width="100%"/>
 </p>
 
-<h1 align="center">
-  Hey <a href="https://github.com/BaNoF_">Danil</a>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-
 <h3 align="center">Student dev from Russia 🇷🇺 | Daily commits challenge 2026 🟩</h3>
 
 <p align="center">
