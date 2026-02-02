@@ -1,7 +1,7 @@
-name: GitHub Stats
+name: Update Stats
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 jobs:
   stats:
@@ -10,12 +10,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Update Stats
-        uses: lowlighter/metrics@latest
-        with:
-          user: BaNoF
-          token: ${{ secrets.GH_TOKEN }}
-          template: classic
-          config_timezone: Asia/Yakutsk
-          plugin_isocalendar: true
-          plugin_isocalendar_duration: full-year
+      - name: Update README
+        run: |
+          sed -i 's/Streak: [0-9]\+ дней/Streak updated/' README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
