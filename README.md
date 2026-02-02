@@ -4,14 +4,15 @@
 
 <h3 align="center">Student dev from Russia 🇷🇺 | Daily commits challenge 2026 🟩</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaNoF&color=green" alt="Profile Views"/>
-</p>
+<div align="center">
+  🎯 **Danil BaNoF** | Student Dev 🇷🇺 | Daily Commits 2026 🟩
+</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BaNoF&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaNoF&show_icons=true&theme=radical">
+</picture>
 <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BaNoF&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 🚀 About Me
 Student developer building full-stack apps, Minecraft plugins, and working on daily discipline.  
@@ -21,3 +22,9 @@ Student developer building full-stack apps, Minecraft plugins, and working on da
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,java,postgres,sqlite,docker,git&theme=dark" />
 </p>
+
+<br />
+
+**📊 Статистика 2026:** <br />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BaNoF&theme=radical&short_numbers=true" alt="GitHub Streak" /></a><br />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaNoF&theme=react-dark&hide_border=true)
