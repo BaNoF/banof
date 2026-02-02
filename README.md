@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hey <a href="https://github.com/BaNoF_">Danil</a> 👋
+  Hey <a href="https://github.com/BaNoF_">Danil</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
